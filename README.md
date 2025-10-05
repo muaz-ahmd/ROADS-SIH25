@@ -1,5 +1,4 @@
 ## R.O.A.D.S - Responsive Odisha Adaptive Driving Systems                                                              
-**Real-time Observation and Analysis of Dynamic Streets**  
 *(SIH 2025 Prototype)*
 
 ---
